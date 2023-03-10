@@ -1,7 +1,8 @@
-https://i.ibb.co/KsMj1fg/github-header-image-1.png
+![CS student](https://i.ibb.co/KsMj1fg/github-header-image-1.png)
 
 ### Hi there 👋, I am Asifur Rahman
 #### CS student
+
 
 I am currently completing my undergraduate in Computer Science and Engineering at the Bangladesh University of Business and Technology. I am enthusiastic about real-life impacted projects. Partially I love to create awareness regarding online security and privacy. 
 
