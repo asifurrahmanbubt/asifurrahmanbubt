@@ -1,6 +1,6 @@
 ![CS student](https://i.ibb.co/KsMj1fg/github-header-image-1.png)
 
-### Hi there 👋, I am Asifur Rahman
+# Hi there 👋, I am Asifur Rahman
 #### CS student
 
 
