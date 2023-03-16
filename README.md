@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/gist/codesandtags/998ecaff2f1b1a0f1d97d6d8a93867b9/raw/0d405110fc8f9a4acfd31937a820076dea8fe46f/welcome.gif)
+       ![MasterHead](https://raw.githubusercontent.com/gist/codesandtags/998ecaff2f1b1a0f1d97d6d8a93867b9/raw/0d405110fc8f9a4acfd31937a820076dea8fe46f/welcome.gif)
 <h1 align="center">Hi 👋, I'm Asifur Rahman</h1>
 <h3 align="center">I am currently completing my undergraduate in Computer Science and Engineering at the Bangladesh University of Business and Technology. I am enthusiastic about real-life impacted projects. Partially I love to create awareness regarding online security and privacy.</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/AshamedWeightyDachshund-max-1mb.gif">
@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asifurrahmanbubt" alt="asifurrahmanbubt" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/asifurrahman51" target="blank"><img src="https://img.shields.io/twitter/follow/asifurrahman51?logo=twitter&style=for-the-badge" alt="asifurrahman51" /></a> </p>
 
 - 🔭 I’m currently working on **Software Development Project based on C**
 
