@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asifurrahmanbubt&label=Profile%20views&color=0e75b6&style=flat" alt="asifurrahmanbubt" /> </p>
 
-- 🔭 I’m currently working on **Software Development Project based on C**
+- 🔭 I’m currently working on ** Data Structure **
 
-- 🌱 I’m currently learning **C++ & Machine Learning**
+- 🌱 I’m currently learning **Python & Machine Learning**
 
 - 👯 I’m looking to collaborate on **C/C++/Python project**
 
